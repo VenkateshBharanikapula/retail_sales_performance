@@ -1,0 +1,13 @@
+# IDE
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+
+# Raw data (keep local only)
+data/data_raw/
