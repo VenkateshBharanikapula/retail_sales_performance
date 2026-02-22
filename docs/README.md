@@ -84,4 +84,4 @@ retail_sales_performance/
 │   └── Retail_Sales_Dashboard.pbix   # interactive report
 │
 └── docs/
-    └── README.md                 # this documentation 
+    └── README.md                 # this documentation
